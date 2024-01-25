@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Clean any N/A in the raw plane data, and keep only the variables necessary for the paper. 
+# Purpose: Clean any raw data, and keep only the variables for the paper. 
 # Author: Dong Jun Yoon
 # Date: 25 January 2024
 # Contact: dongjun.yoon@mail.utoronto.ca
