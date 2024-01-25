@@ -20,3 +20,6 @@ for (col in names(data_cleaned)) {
     data_cleaned[[col]][is.na(data_cleaned[[col]])] <- 0
   }
 }
+
+#### Save data ####
+write_csv(university_data, "outputs/data/analysis_data.csv")
