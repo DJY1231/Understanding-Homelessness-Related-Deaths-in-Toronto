@@ -1,0 +1,19 @@
+# Reference
+
+Toronto Public Health, 2022. Data for deaths of people experiencing homelessness 2022. 
+https://www.toronto.ca/news/toronto-public-health-releases-2022-data-for-deaths-of-people-experiencing-homelessness/
+
+R Core Team. 2023. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. https://www.R-project.org/.
+
+Gelfand, Sharla. 2022. Opendatatoronto: Access the City of Toronto Open Data Portal. https://CRAN.R-project.org/package=opendatatoronto.
+
+Wickham, Hadley, Mara Averick, Jenny Bryan, Winston Chang, Lucy D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019. “Welcome to the Tidyverse.” Journal of Open Source Software 4 (43): 1686. https://doi.org/10.21105/joss.01686.
+
+Wickham, Hadley, Davis Vaughan, and Maximilian Girlich. 2023. tidyr: Tidy Messy Data. https://CRAN.R-project.org/package=tidyr.
+
+Wickham, Hadley, Romain François, Lionel Henry, and Kirill Müller. 2022. dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr.
+
+Firke, Sam. 2023. janitor: Simple Tools for Examining and Cleaning Dirty Data. https://CRAN.R-project.org/package=janitor.
+
+Xie, Yihui. 2019. “TinyTeX: A lightweight, cross-platform, and easy-to-maintain LaTeX distribution based on TeX Live.” TUGboat, no. 1: 30–32. https://tug.org/TUGboat/Contents/contents40-1.html.
+———. 2023. knitr: A General-Purpose Package for Dynamic Report Generation in R. https://yihui.org/knitr/.
